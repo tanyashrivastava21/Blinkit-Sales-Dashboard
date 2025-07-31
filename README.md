@@ -10,3 +10,6 @@ How to Use:
 --Download the .twbx file from this repository.
 --Open it using Tableau Desktop (or Tableau Public if applicable).
 --Interact with the dashboards using the filters and dropdowns
+
+![Tool](https://img.shields.io/badge/Tool-Tableau-blue)
+
